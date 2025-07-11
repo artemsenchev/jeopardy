@@ -88,7 +88,8 @@ jeopardy/
 
 ## 🖥️ Preview
 
-![Board Preview](https://user-images.githubusercontent.com/your-preview.png)
+<img width="1620" height="557" alt="image" src="https://github.com/user-attachments/assets/97287fad-bd5b-4262-be91-aefaa682b824" />
+
 
 ---
 
