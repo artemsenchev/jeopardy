@@ -5,7 +5,8 @@ Fetches real trivia categories and clues from the [Rithm Jeopardy API](https://r
 
 ---
 
-![Jeopardy Board Screenshot](https://user-images.githubusercontent.com/your-screenshot.png)
+![Jeopardy Board Screenshot](<img width="1616" height="788" alt="image" src="https://github.com/user-attachments/assets/79ac128a-f56d-49f3-91f3-e1303bf44a4f" />)
+
 
 ## 🚀 Features
 
@@ -15,12 +16,6 @@ Fetches real trivia categories and clues from the [Rithm Jeopardy API](https://r
 - ✨ **Animated Spinner:** Loading spinner while fetching data.
 - ✅ **Interactive:** Click a cell to reveal the question, then the answer.
 - 🟩 **Answered Highlight:** Answered clues turn green.
-
----
-
-## 📸 Demo
-
-![Demo GIF](https://user-images.githubusercontent.com/your-demo.gif)
 
 ---
 
