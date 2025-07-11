@@ -7,7 +7,15 @@ Fetches real trivia categories and clues from the [Rithm Jeopardy API](https://r
 
 <img width="1624" height="790" alt="image" src="https://github.com/user-attachments/assets/5ac4e85c-5754-4c55-9cdd-317193f42db0" />
 
+## 📚 Purpose of This Exercise
 
+This project was created to demonstrate:
+
+- Building a dynamic game board using JavaScript, HTML, and CSS
+- Making AJAX requests using Axios to fetch data from an external API
+- Manipulating the DOM to display and update questions and answers
+- Registering and handling event listeners for user interaction
+- Implementing a restartable game experience
 
 ## 🚀 Features
 
