@@ -1,0 +1,101 @@
+#jeopardy {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px auto;
+  background: #1a237e;
+  color: #fff;
+  font-family: "Copse", serif;
+  box-shadow: 0 0 20px #0008;
+}
+
+#jeopardy th,
+#jeopardy td {
+  border: 2px solid #fff;
+  padding: 20px;
+  text-align: center;
+  font-size: 1.2em;
+  min-width: 120px;
+  background: #283593;
+  cursor: pointer;
+}
+
+#jeopardy th {
+  background: #3949ab;
+  font-size: 1.3em;
+  letter-spacing: 1px;
+}
+
+#jeopardy td {
+  transition: background 0.2s;
+}
+
+#jeopardy td:hover {
+  background: #5c6bc0;
+}
+
+.spinner {
+  border: 8px solid #eee;
+  border-top: 8px solid #3949ab;
+  border-radius: 50%;
+  width: 48px;
+  height: 48px;
+  animation: spin 1s linear infinite;
+  margin: 20px auto;
+  display: block;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.hidden {
+  display: none;
+}
+
+.answered {
+  background: #43a047 !important; /* green */
+  color: #fff !important;
+}
+
+.title {
+  font-size: 3em;
+  text-align: center;
+  margin: 30px 0 20px 0;
+  font-family: "Copse", serif;
+  letter-spacing: 2px;
+  color: #2849df;
+  text-shadow: 2px 2px 8px #1a237e;
+}
+
+.game-button {
+  display: block;
+  width: 200px;
+  margin: 20px auto;
+  padding: 10px;
+  font-size: 1.2em;
+  background: #3949ab;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background 0.3s, transform 0.2s;
+}
+
+.restart {
+  display: block;
+  width: 200px;
+  margin: 20px auto;
+  padding: 10px;
+  font-size: 1.2em;
+  background: #3949ab;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background 0.3s, transform 0.2s;
+}
