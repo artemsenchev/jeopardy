@@ -5,7 +5,8 @@ Fetches real trivia categories and clues from the [Rithm Jeopardy API](https://r
 
 ---
 
-![Jeopardy Board Screenshot](<img width="1616" height="788" alt="image" src="https://github.com/user-attachments/assets/79ac128a-f56d-49f3-91f3-e1303bf44a4f" />)
+<img width="1624" height="790" alt="image" src="https://github.com/user-attachments/assets/5ac4e85c-5754-4c55-9cdd-317193f42db0" />
+
 
 
 ## 🚀 Features
