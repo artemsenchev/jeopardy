@@ -33,7 +33,7 @@ This project was created to demonstrate:
 1. **Clone this repo:**
 
    ```sh
-   git clone https://github.com/your-username/jeopardy.git
+   git clone (https://github.com/artemsenchev/jeopardy.git
    cd jeopardy
    ```
 
